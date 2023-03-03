@@ -1,4 +1,4 @@
-# hungry-worm
+# Hungry Worm
 Worm themed classic Snake game. Built with turtle graphics in Python.
 
 
